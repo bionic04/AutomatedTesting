@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T16:27:00 MSK" name="Default suite" finished-at="2023-03-10T16:27:01 MSK" duration-ms="743">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T16:27:00 MSK" name="Default test" finished-at="2023-03-10T16:27:01 MSK" duration-ms="743">
+      <class name="main.ExcelTesting">
+        <test-method signature="DataReadTest()[pri:0, instance:main.ExcelTesting@3835c46]" started-at="2023-03-10T16:27:00 MSK" name="DataReadTest" finished-at="2023-03-10T16:27:01 MSK" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataReadTest -->
+      </class> <!-- main.ExcelTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
