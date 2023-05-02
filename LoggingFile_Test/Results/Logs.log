@@ -1,6 +1,0 @@
-20:38:22.300 [main] INFO  test.SiteTest - Successed test casee name: TitleTest
-20:38:25.725 [main] INFO  test.SiteTest - Successed test casee name: LinkTest
-20:38:29.753 [main] INFO  test.SiteTest - Successed test casee name: ButTest
-20:38:31.745 [main] INFO  test.SiteTest - Successed test casee name: SearchTest
-20:38:34.172 [main] INFO  test.SiteTest - Failed test case name: SneakerTest
-20:38:40.418 [main] INFO  test.SiteTest - Successed test casee name: SocialLinkTest
