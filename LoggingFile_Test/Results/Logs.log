@@ -1,0 +1,13 @@
+13:04:00.124 [main] INFO  test.SiteTest - Connected succeed.
+13:04:05.770 [main] INFO  test.SiteTest - Button Женщинам pressed
+13:04:10.496 [main] INFO  test.SiteTest - linktext бексонтактная доставка pressed
+13:04:13.691 [main] INFO  test.SiteTest - find sneakers
+13:06:26.973 [main] INFO  test.SiteTest - Connected succeed.
+13:06:32.563 [main] INFO  test.SiteTest - Button Женщинам pressed
+13:06:37.248 [main] INFO  test.SiteTest - linktext бексонтактная доставка pressed
+13:06:40.413 [main] INFO  test.SiteTest - find sneakers
+13:06:44.702 [main] INFO  test.SiteTest - Test is finished: Default test
+13:06:50.512 [main] INFO  test.SiteTest - Connected succeed.
+13:06:56.130 [main] INFO  test.SiteTest - Button Женщинам pressed
+13:07:21.015 [main] INFO  test.SiteTest - linktext бексонтактная доставка pressed
+13:07:39.419 [main] INFO  test.SiteTest - Test is finished: Default test
